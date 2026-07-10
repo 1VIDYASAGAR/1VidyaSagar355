@@ -1,0 +1,164 @@
+<svg width="900" height="62" viewBox="0 0 900 62" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="marqueeClip"><rect x="0" y="0" width="900" height="62" rx="18"/></clipPath>
+    <linearGradient id="marqueeBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#04060d"/>
+      <stop offset="50%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#04060d"/>
+    </linearGradient>
+    <linearGradient id="marqueeBorder" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7DD3FC"/>
+      <stop offset="50%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="60" rx="18" fill="url(#marqueeBg)" stroke="url(#marqueeBorder)" stroke-width="1.6"/>
+  <g clip-path="url(#marqueeClip)">
+    <g>
+      
+    <g transform="translate(0,10)">
+      <rect width="70" height="42" rx="21" fill="#0b1220" stroke="#00599C" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#00599C"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">C++</text>
+    </g>
+    <g transform="translate(88,10)">
+      <rect width="70" height="42" rx="21" fill="#0b1220" stroke="#0175C2" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#0175C2"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Dart</text>
+    </g>
+    <g transform="translate(176,10)">
+      <rect width="70" height="42" rx="21" fill="#0b1220" stroke="#EA2D2E" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#EA2D2E"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Java</text>
+    </g>
+    <g transform="translate(264,10)">
+      <rect width="130" height="42" rx="21" fill="#0b1220" stroke="#F7DF1E" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#F7DF1E"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">JavaScript</text>
+    </g>
+    <g transform="translate(412,10)">
+      <rect width="86" height="42" rx="21" fill="#0b1220" stroke="#7F52FF" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#7F52FF"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Kotlin</text>
+    </g>
+    <g transform="translate(516,10)">
+      <rect width="75" height="42" rx="21" fill="#0b1220" stroke="#61DAFB" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#61DAFB"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">React</text>
+    </g>
+    <g transform="translate(609,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#DD0031" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#DD0031"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Angular</text>
+    </g>
+    <g transform="translate(724,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#38BDF8" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#38BDF8"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Next.js</text>
+    </g>
+    <g transform="translate(839,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#02569B" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#02569B"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Flutter</text>
+    </g>
+    <g transform="translate(954,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#3C873A" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#3C873A"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Node.js</text>
+    </g>
+    <g transform="translate(1069,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#8FBCBB" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#8FBCBB"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Express</text>
+    </g>
+    <g transform="translate(1184,10)">
+      <rect width="70" height="42" rx="21" fill="#0b1220" stroke="#FF9900" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#FF9900"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">AWS</text>
+    </g>
+    <g transform="translate(1272,10)">
+      <rect width="75" height="42" rx="21" fill="#0b1220" stroke="#4479A1" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#4479A1"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">MySQL</text>
+    </g>
+    <g transform="translate(1365,10)">
+      <rect width="108" height="42" rx="21" fill="#0b1220" stroke="#FFCA28" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#FFCA28"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Firebase</text>
+    </g>
+      
+    <g transform="translate(1491,10)">
+      <rect width="70" height="42" rx="21" fill="#0b1220" stroke="#00599C" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#00599C"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">C++</text>
+    </g>
+    <g transform="translate(1579,10)">
+      <rect width="70" height="42" rx="21" fill="#0b1220" stroke="#0175C2" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#0175C2"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Dart</text>
+    </g>
+    <g transform="translate(1667,10)">
+      <rect width="70" height="42" rx="21" fill="#0b1220" stroke="#EA2D2E" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#EA2D2E"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Java</text>
+    </g>
+    <g transform="translate(1755,10)">
+      <rect width="130" height="42" rx="21" fill="#0b1220" stroke="#F7DF1E" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#F7DF1E"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">JavaScript</text>
+    </g>
+    <g transform="translate(1903,10)">
+      <rect width="86" height="42" rx="21" fill="#0b1220" stroke="#7F52FF" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#7F52FF"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Kotlin</text>
+    </g>
+    <g transform="translate(2007,10)">
+      <rect width="75" height="42" rx="21" fill="#0b1220" stroke="#61DAFB" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#61DAFB"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">React</text>
+    </g>
+    <g transform="translate(2100,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#DD0031" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#DD0031"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Angular</text>
+    </g>
+    <g transform="translate(2215,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#38BDF8" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#38BDF8"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Next.js</text>
+    </g>
+    <g transform="translate(2330,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#02569B" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#02569B"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Flutter</text>
+    </g>
+    <g transform="translate(2445,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#3C873A" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#3C873A"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Node.js</text>
+    </g>
+    <g transform="translate(2560,10)">
+      <rect width="97" height="42" rx="21" fill="#0b1220" stroke="#8FBCBB" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#8FBCBB"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Express</text>
+    </g>
+    <g transform="translate(2675,10)">
+      <rect width="70" height="42" rx="21" fill="#0b1220" stroke="#FF9900" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#FF9900"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">AWS</text>
+    </g>
+    <g transform="translate(2763,10)">
+      <rect width="75" height="42" rx="21" fill="#0b1220" stroke="#4479A1" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#4479A1"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">MySQL</text>
+    </g>
+    <g transform="translate(2856,10)">
+      <rect width="108" height="42" rx="21" fill="#0b1220" stroke="#FFCA28" stroke-width="1.6"/>
+      <circle cx="21" cy="21" r="5.5" fill="#FFCA28"/>
+      <text x="36" y="27" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#E2E8F0">Firebase</text>
+    </g>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; -1491,0" dur="20s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
